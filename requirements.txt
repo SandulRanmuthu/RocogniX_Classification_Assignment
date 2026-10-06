@@ -1,0 +1,6 @@
+tensorflow 
+matplotlib 
+pillow 
+scikit-learn
+ipykernel
+seaborn
