@@ -9,3 +9,5 @@ split/
 
 *.keras
 
+output/
+
