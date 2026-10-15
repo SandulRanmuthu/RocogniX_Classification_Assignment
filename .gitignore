@@ -8,6 +8,7 @@ split/
 *.pdf
 
 *.keras
+*.h5
 
 output/
 
