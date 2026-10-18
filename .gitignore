@@ -1,11 +1,4 @@
-cmu+face+images/
-FaceData_Raw/
-split/
-
 .venv
-
-*.zip
-*.pdf
 
 *.keras
 *.h5
